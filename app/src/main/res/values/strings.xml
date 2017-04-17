@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwiperGess</string>
+    <string name="action_settings">Settings</string>
+    <string name="mules_text">Welcome to SwiperGess</string>
+</resources>
